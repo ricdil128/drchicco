@@ -1,0 +1,1 @@
+Nessun dato disponibile per il report.

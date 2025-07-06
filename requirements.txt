@@ -1,0 +1,8 @@
+autogen
+pymed
+pandas
+openai
+requests
+streamlit
+fpdf
+matplotlib
